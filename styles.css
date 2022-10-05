@@ -246,6 +246,9 @@
       }
       .product-detail-close:hover {
         cursor: pointer;
+        box-shadow: -1px 5px 71px 5px var(--hospital-green);
+        -webkit-box-shadow: -1px 5px 71px 5px var(--hospital-green);
+        -moz-box-shadow: -1px 5px 71px 5px var(--hospital-green);
       }
       aside > img:nth-child(2) {
         width: 100%;
